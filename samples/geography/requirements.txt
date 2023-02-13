@@ -7,13 +7,13 @@ click-plugins==1.1.1
 cligj==0.7.2
 dataclasses==0.8; python_version < '3.7'
 db-dtypes==1.0.5
-Fiona==1.8.22
+Fiona==1.9.0
 geojson==3.0.0
 geopandas===0.10.2; python_version == '3.7'
 geopandas==0.12.2; python_version >= '3.8'
 google-api-core==2.11.0
 google-auth==2.16.0
-google-cloud-bigquery==3.4.2
+google-cloud-bigquery==3.5.0
 google-cloud-bigquery-storage==2.18.1
 google-cloud-core==2.3.2
 google-crc32c==1.5.0
@@ -38,7 +38,7 @@ pytz==2022.7.1
 PyYAML==6.0
 requests==2.28.2
 rsa==4.9
-Shapely==2.0.0
+Shapely==2.0.1
 six==1.16.0
 typing-extensions==4.4.0
 typing-inspect==0.8.0
